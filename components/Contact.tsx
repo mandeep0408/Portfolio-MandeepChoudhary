@@ -94,7 +94,7 @@ export function Contact() {
             variants={itemVariants}
             className="text-xl text-text-secondary dark:text-gray-400 text-center mb-16"
           >
-            Let's build something impactful
+            <p>Let&apos;s build something impactful</p>
           </motion.p>
 
           <div className="max-w-4xl mx-auto">
